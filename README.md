@@ -1,8 +1,8 @@
 # Matrix Summation using 2D Grids and 2D Blocks AY 23 24
 
 ### EX. NO: 02
-### ENTER YOUR NAME: Meenakshi M 
-### REGISTER NO: 212221230057
+### ENTER YOUR NAME: Shafeeq Ahamed S
+### REGISTER NO: 212221230092
 ### DATE:
 
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
