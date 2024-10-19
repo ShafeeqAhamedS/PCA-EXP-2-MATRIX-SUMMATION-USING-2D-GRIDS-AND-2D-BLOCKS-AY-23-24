@@ -1,4 +1,4 @@
-# Matrix Summation using 2D Grids and 2D Blocks AY 23 24
+# Matrix Summation using 2D Grids and 2D Blocks 
 
 ### EX. NO: 02
 ### ENTER YOUR NAME: Shafeeq Ahamed S
